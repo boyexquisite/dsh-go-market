@@ -1,0 +1,17 @@
+{
+  "name": "dsh-go-token-usage",
+  "version": "0.2.1",
+  "title": {
+    "zh": "Token 用量",
+    "en": "Token usage"
+  },
+  "summary": {
+    "zh": "本对话 / 今日 / 7 天 / 30 天的 token 用量与缓存命中，可生成用量卡片",
+    "en": "Token usage of this chat, today, 7 and 30 days with cache hits, plus an exportable usage card"
+  },
+  "category": "productivity",
+  "screenshots": [
+    "https://raw.githubusercontent.com/boyexquisite/dsh-go-token-usage/main/docs/preview.png"
+  ],
+  "homepage": "https://github.com/boyexquisite/dsh-go-token-usage"
+}
