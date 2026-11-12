@@ -1,6 +1,6 @@
 {
   "name": "dsh-go-token-usage",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "title": {
     "zh": "Token 用量",
     "en": "Token usage"
